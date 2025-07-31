@@ -7,7 +7,7 @@ During the processing of the PrimeVul test dataset, we encountered a large varie
 ## Dataset Statistics
 
 - **Total samples**: 870
-- **Unique repositories**: 140  
+- **Unique repositories(commit-specific)**: 423  
 - **Supported URL formats**: 15+
 
 ## Main Challenges & Solutions
